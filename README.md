@@ -13,7 +13,7 @@
 
 | Mod Packs       | Description                                                                                                                                                                      |
 | :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🍦 Common        | 🔸Discard items by pressing `DELETE` while dragging in Inventory <br>🔸Bronze conversion is now `2 Copper + 1 Tin = 2 Bronze` <br>🔸`Hammer/Hoe/Pickaxe` is usable within the water |
+| Common          | 🔸Discard items by pressing `DELETE` while dragging in Inventory <br>🔸Bronze conversion is now `2 Copper + 1 Tin = 2 Bronze` <br>🔸`Hammer/Hoe/Pickaxe` is usable within the water |
 | 🍦 Vanilla       | Base game                                                                                                                                                                        |
 | 🍦➕ Vanilla-Plus | Base game plus QOL common mods                                                                                                                                                   |
 | ⚔️💖 PVP-Softcore | 🔸0% skill loss on death <br> 🔸Do not drop hotbar or equipped items on death                                                                                                      |
