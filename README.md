@@ -11,14 +11,14 @@
 🔸Run `install.bat`  
 🔸Run `📦 [MOD_PACK].bat` to install a mod pack  
 
-| Mod Packs       | Description                                                                                                                                                                      |
-| :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🍦 Vanilla       | Base game                                                                                                                                                                        |
-| 🍦➕ Vanilla-Plus | Base game and `Common` mods                                                                                                                                                      |
-| 📦 Common        | 🔸Discard items by pressing `DELETE` while dragging in Inventory <br>🔸Bronze conversion is now `2 Copper + 1 Tin = 2 Bronze` <br>🔸`Hammer/Hoe/Pickaxe` is usable within the water |
-| ⚔️💖 PVP-Softcore | 🔸0% skill loss on death <br> 🔸Do not drop hotbar or equipped items on death                                                                                                      |
-| ⚔️💀 PVP-Hardcore | 🔸50% skill loss on death <br> 🔸Do not drop hotbar or equipped items on death                                                                                                     |
-| 🌎💀 PVE-Hardcore | 🔸50% skill loss on death <br> 🔸Gravestone is deleted on death                                                                                                                    |
+|                               | Vanilla | Vanilla-Plus |  PVP-Softcore   |  PVP-Hardcore   | PVE-Hardcore |
+| :---------------------------- | :-----: | :----------: | :-------------: | :-------------: | :----------: |
+| Discard Items                 |    –    |      ✔️       |        ✔️        |        ✔️        |      ✔️       |
+| `2 Copper + 1 Tin = 2 Bronze` |    –    |      ✔️       |        ✔️        |        ✔️        |      ✔️       |
+| `Hammer/Hoe/Pickaxe` in Water |    –    |      ✔️       |        ✔️        |        ✔️        |      ✔️       |
+| Skill Loss                    |    –    |      –       |       0%        |       50%       |     50%      |
+| Grave                         |    –    |      –       |        ✔️        |        ✔️        |      ❌       |
+| Keep on Death                 |    –    |      –       | Hotbar/Equipped | Hotbar/Equipped |      ❌       |
 
 ## Disclaimer
 > *I make no garauntees about the integrity of these mods. Everything seems to work fine for us, but use these mod packs and installers at your own risk.*
