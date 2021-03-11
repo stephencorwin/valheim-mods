@@ -11,14 +11,14 @@
 🔸Run `install.bat`  
 🔸Run `📦 [MOD_PACK].bat` to install a mod pack  
 
-|                               | Vanilla | Vanilla-Plus |  PVP-Softcore   |  PVP-Hardcore   | PVE-Hardcore |
-| :---------------------------- | :-----: | :----------: | :-------------: | :-------------: | :----------: |
-| Discard Items                 |    –    |      ✔️       |        ✔️        |        ✔️        |      ✔️       |
-| `2 Copper + 1 Tin = 2 Bronze` |    –    |      ✔️       |        ✔️        |        ✔️        |      ✔️       |
-| `Hammer/Hoe/Pickaxe` in Water |    –    |      ✔️       |        ✔️        |        ✔️        |      ✔️       |
-| Skill Loss                    |    –    |      –       |       0%        |       50%       |     50%      |
-| Grave                         |    –    |      –       |        ✔️        |        ✔️        |      ❌       |
-| Keep on Death                 |    –    |      –       | Hotbar/Equipped | Hotbar/Equipped |      ❌       |
+|                   | Vanilla | Vanilla-Plus |  PVP-Softcore   |  PVP-Hardcore   | PVE-Hardcore |
+| :---------------- | :-----: | :----------: | :-------------: | :-------------: | :----------: |
+| Discard Items     |    –    |      ✔️       |        ✔️        |        ✔️        |      ✔️       |
+| Bronze Forge Rate |    –    |      2x      |       2x        |       2x        |      2x      |
+| 👷 in Water        |    –    |      ✔️       |        ✔️        |        ✔️        |      ✔️       |
+| Skill Loss        |    –    |      –       |       0%        |       50%       |     50%      |
+| Grave             |    –    |      –       |        ✔️        |        ✔️        |      ❌       |
+| Keep on Death     |    –    |      –       | Hotbar/Equipped | Hotbar/Equipped |      ❌       |
 
 ## Disclaimer
 > *I make no garauntees about the integrity of these mods. Everything seems to work fine for us, but use these mod packs and installers at your own risk.*
