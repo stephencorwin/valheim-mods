@@ -8,8 +8,8 @@
 
 ## Setup
 🔸Clone this repository into `C:\Program Files (x86)\Steam\steamapps\common\Valheim`  
-🔸Run `BepInEx.install.bat`  
-🔸Run `[MOD_PACK].install.bat` to install a mod pack  
+🔸Run `install.bat`  
+🔸Run `📦 [MOD_PACK].bat` to install a mod pack  
 
 | Mod Packs       | Description                                                                  |
 | :-------------- | :--------------------------------------------------------------------------- |
