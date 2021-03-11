@@ -14,6 +14,7 @@
 | Mod Packs       | Description                                                                  |
 | :-------------- | :--------------------------------------------------------------------------- |
 | 🍦 Vanilla       | Base game                                                                    |
+| 🍦➕ Vanilla-Plus | Base game plus QOL common mods                                               |
 | ⚔️💖 PVP-Softcore | 🔸0% skill loss on death <br> 🔸Do not drop hotbar or equipped items on death  |
 | ⚔️💀 PVP-Hardcore | 🔸50% skill loss on death <br> 🔸Do not drop hotbar or equipped items on death |
 | 🌎💀 PVE-Hardcore | 🔸50% skill loss on death <br> 🔸Gravestone is deleted on death                |
