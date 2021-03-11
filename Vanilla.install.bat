@@ -1,4 +1,4 @@
-rmdir /s/q "../config"
-rmdir /s/q "../plugins"
-ROBOCOPY "Vanilla/config" "../config" /E
-ROBOCOPY "Vanilla/plugins" "../plugins" /E
+rmdir /s/q "../BepInEx/config"
+rmdir /s/q "../BepInEx/plugins"
+ROBOCOPY "Vanilla/config" "../BepInEx/config" /E
+ROBOCOPY "Vanilla/plugins" "../BepInEx/plugins" /E

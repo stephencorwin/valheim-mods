@@ -1,21 +1,22 @@
 # valheim-mods
 > Custom mod packs for Valheim group play.
 
-## Step 1
-Download [BepInExPack_Valheim](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/) (Manual Download) and copy the contents of the `BepInExPack_Valheim` subfolder into `C:\Program Files (x86)\Steam\steamapps\common\Valheim`
+## What's included
+🔸[BepInExPack_Valheim v5.4.8](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/)  
+🔸Custom `BepInEx` installer/uninstaller  
+🔸Several mod packs with to support custom rule sets
 
-![step-1](./screenshots/step-1.png)
+## Setup
+🔸Clone this repository into `C:\Program Files (x86)\Steam\steamapps\common\Valheim`  
+🔸Run `BepInEx.install.bat`  
+🔸Run `[MOD_PACK].install.bat` to install a mod pack  
 
-## Step 2
-Clone this repository into the `BepInEx` folder.
-![step-1](./screenshots/step-2.png)
+| Mod Packs       | Description                                                                  |
+| :-------------- | :--------------------------------------------------------------------------- |
+| 🍦 Vanilla       | Base game                                                                    |
+| ⚔️💖 PVP-Softcore | 🔸0% skill loss on death <br> 🔸Do not drop hotbar or equipped items on death  |
+| ⚔️💀 PVP-Hardcore | 🔸50% skill loss on death <br> 🔸Do not drop hotbar or equipped items on death |
+| 🌎💀 PVE-Hardcore | 🔸50% skill loss on death <br> 🔸Gravestone is deleted on death                |
 
-## Step 3
-Within the `valheim-mods` folder, choose one of the mod packs and run the associated `*.install.bat` file.
-
-| Name            | Description                                                             |
-| :-------------- | :---------------------------------------------------------------------- |
-| 🍦 Vanilla       | Base game                                                               |
-| ⚔️💖 PVP-Softcore | 🔸0% skill loss on death 🔸Do not drop hotbar or equipped items on death  |
-| ⚔️💀 PVP-Hardcore | 🔸50% skill loss on death 🔸Do not drop hotbar or equipped items on death |
-| 🌎💀 PVE-Hardcore | 🔸50% skill loss on death 🔸Gravestone is deleted on death                |
+## Disclaimer
+> *I make no garauntees about the integrity of these mods. Everything seems to work fine for us, but use these mod packs and installers at your own risk.*

@@ -1,4 +1,4 @@
-rmdir /s/q "../config"
-rmdir /s/q "../plugins"
-ROBOCOPY "PVE-Hardcore/config" "../config" /E
-ROBOCOPY "PVE-Hardcore/plugins" "../plugins" /E
+rmdir /s/q "../BepInEx/config"
+rmdir /s/q "../BepInEx/plugins"
+ROBOCOPY "PVE-Hardcore/config" "../BepInEx/config" /E
+ROBOCOPY "PVE-Hardcore/plugins" "../BepInEx/plugins" /E

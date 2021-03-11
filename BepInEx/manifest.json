@@ -1,0 +1,7 @@
+{
+    "name": "BepInExPack_Valheim",
+    "version_number": "5.4.800",
+    "website_url": "https://github.com/BepInEx/BepInEx",
+    "description": "BepInEx pack for Valheim. Preconfigured and includes unstripped Unity DLLs.",
+    "dependencies": []
+}
