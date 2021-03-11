@@ -7,7 +7,7 @@ Download [BepInExPack_Valheim](https://valheim.thunderstore.io/package/denikson/
 Clone this repository into the same folder.
 
 ## Step 3
-Choose one of the mod packs and copy it into the `BepInEx` folder.
+Choose one of the mod packs and copy the contents of it into the `BepInEx` folder (replace existing).
 
 | Name           | Description                                                             |
 | :------------- | :---------------------------------------------------------------------- |
