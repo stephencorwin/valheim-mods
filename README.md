@@ -1,4 +1,5 @@
 # valheim-mods
+> Custom mod packs for Valheim group play.
 
 ## Step 1
 Download [BepInExPack_Valheim](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/) (Manual Download) and copy the contents of the `BepInExPack_Valheim` subfolder into `C:\Program Files (x86)\Steam\steamapps\common\Valheim`
