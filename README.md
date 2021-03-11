@@ -11,7 +11,7 @@
 🔸Run `install.bat`  
 🔸Run `📦 [MOD_PACK].bat` to install a mod pack  
 
-|                   | Vanilla | Vanilla-Plus |  PVP-Softcore   |  PVP-Hardcore   | PVE-Hardcore |
+|                   | Vanilla | Vanilla-Plus |  PVP-Softcore   |  PVP-Halfcore   | PVE-Halfcore |
 | :---------------- | :-----: | :----------: | :-------------: | :-------------: | :----------: |
 | Discard Items     |    –    |      ✔️       |        ✔️        |        ✔️        |      ✔️       |
 | Bronze Forge Rate |    –    |      2x      |       2x        |       2x        |      2x      |
