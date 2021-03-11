@@ -7,7 +7,7 @@ Download [BepInExPack_Valheim](https://valheim.thunderstore.io/package/denikson/
 Clone this repository into the same folder.
 
 ## Step 3
-Choose one of the mod packs and copy the contents of it into the `BepInEx` folder (replace existing).
+Choose one of the mod packs and run the associated `*.install.bat` file.
 
 | Name            | Description                                                             |
 | :-------------- | :---------------------------------------------------------------------- |
@@ -15,7 +15,3 @@ Choose one of the mod packs and copy the contents of it into the `BepInEx` folde
 | ⚔️💖 PVP-Softcore | 🔸0% skill loss on death 🔸Do not drop hotbar or equipped items on death  |
 | ⚔️💀 PVP-Hardcore | 🔸50% skill loss on death 🔸Do not drop hotbar or equipped items on death |
 | 🌎💀 PVE-Hardcore | 🔸50% skill loss on death 🔸Gravestone is deleted on death                |
-
-## Switching mods / Uninstalling
-- Delete `./BepInEx/config` and `./BepInEx/plugins` folders.
-- (Uninstalling) Install the `Vanilla` mod pack to fully revert.
