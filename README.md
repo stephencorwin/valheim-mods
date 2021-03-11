@@ -4,7 +4,7 @@
 ## What's included
 🔸[BepInExPack_Valheim v5.4.8](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/)  
 🔸Custom `BepInEx` installer/uninstaller  
-🔸Several mod packs with to support custom rule sets
+🔸Several mod packs with to support custom rule sets  
 
 ## Setup
 🔸Clone this repository into `C:\Program Files (x86)\Steam\steamapps\common\Valheim`  
@@ -14,6 +14,7 @@
 |                   | Vanilla | Vanilla-Plus |  PVP-Softcore   |  PVP-Halfcore   | PVE-Halfcore |
 | :---------------- | :-----: | :----------: | :-------------: | :-------------: | :----------: |
 | Discard Items     |    –    |      ✔️       |        ✔️        |        ✔️        |      ✔️       |
+| Comfort Bug Fix   |    –    |      ✔️       |        ✔️        |        ✔️        |      ✔️       |
 | Bronze Forge Rate |    –    |      2x      |       2x        |       2x        |      2x      |
 | 👷 in Water        |    –    |      ✔️       |        ✔️        |        ✔️        |      ✔️       |
 | Skill Loss        |    –    |      –       |       0%        |       50%       |     50%      |
