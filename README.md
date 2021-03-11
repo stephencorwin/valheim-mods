@@ -18,4 +18,4 @@ Choose one of the mod packs and copy the contents of it into the `BepInEx` folde
 
 ## Switching mods / Uninstalling
 - Delete `./BepInEx/config` and `./BepInEx/plugins` folders.
-- (Uninstalling) Install the Vanilla mod pack to fully revert.
+- (Uninstalling) Install the `Vanilla` mod pack to fully revert.
