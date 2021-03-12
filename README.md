@@ -25,7 +25,7 @@
 🔸Copy an existing `./packs/[MOD_PACK]` and rename it.  
 🔸Copy an existing `./📦 [MOD_PACK].bat` and rename it.  
 🔸Open the new `bat` file and make sure the paths line up with the folder.  
-🔸Copy any desired configs and plugins into the pack folder.  
+🔸Copy any desired configs and plugins into the new pack folder.  
 
 ## Disclaimer
 > *I make no garauntees about the integrity of these mods. Everything seems to work fine for us, but use these mod packs and installers at your own risk.*
