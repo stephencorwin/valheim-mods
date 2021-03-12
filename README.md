@@ -23,7 +23,8 @@
 
 ## Creating a new mod pack
 🔸Run `create.bat`  
-🔸Copy any desired configs and plugins into the new pack folder.  
+🔸You will need to choose a unique name. Type `y` if you want this mod pack to always include any `./packs/common` mods as well.  
+🔸Copy any desired configs and plugins into the new `./packs/[NAME]` folder.  
 
 ## Disclaimer
 > *I make no garauntees about the integrity of these mods. Everything seems to work fine for us, but use these mod packs and installers at your own risk.*
