@@ -9,7 +9,7 @@
 ## Setup
 🔸Clone this repository into `C:\Program Files (x86)\Steam\steamapps\common\Valheim`  
 🔸Run `install.bat`  
-🔸Run `📦 [MOD_PACK].bat` to install a mod pack  
+🔸Run `_[MOD_PACK].bat` to install a mod pack  
 
 |                   | Vanilla | Vanilla-Plus |  PVP-Softcore   |  PVP-Halfcore   | PVE-Halfcore |
 | :---------------- | :-----: | :----------: | :-------------: | :-------------: | :----------: |
@@ -22,9 +22,7 @@
 | Keep on Death     |    –    |      –       | Hotbar/Equipped | Hotbar/Equipped |      ❌       |
 
 ## Creating a new mod pack
-🔸Copy an existing `./packs/[MOD_PACK]` and rename it.  
-🔸Copy an existing `./📦 [MOD_PACK].bat` and rename it.  
-🔸Open the new `bat` file and make sure the paths line up with the folder.  
+🔸Run `create.bat`  
 🔸Copy any desired configs and plugins into the new pack folder.  
 
 ## Disclaimer
