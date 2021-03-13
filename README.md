@@ -13,6 +13,7 @@
 
 |                   | Vanilla | Vanilla-Plus |  PVP-Softcore   |  PVP-Halfcore   | PVE-Halfcore |
 | :---------------- | :-----: | :----------: | :-------------: | :-------------: | :----------: |
+| Skip Intro        |    –    |      ✔️       |        ✔️        |        ✔️        |      ✔️       |
 | Discard Items     |    –    |      ✔️       |        ✔️        |        ✔️        |      ✔️       |
 | Comfort Bug Fix   |    –    |      ✔️       |        ✔️        |        ✔️        |      ✔️       |
 | Bronze Forge Rate |    –    |      2x      |       2x        |       2x        |      2x      |
