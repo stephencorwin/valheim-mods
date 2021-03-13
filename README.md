@@ -18,6 +18,7 @@
 | Comfort Bug Fix   |    –    |      ✔️       |        ✔️        |        ✔️        |      ✔️       |
 | Bronze Forge Rate |    –    |      2x      |       2x        |       2x        |      2x      |
 | 👷 in Water        |    –    |      ✔️       |        ✔️        |        ✔️        |      ✔️       |
+| PVP On            |    –    |      –       |        ✔️        |        ✔️        |      -       |
 | Skill Loss        |    –    |      –       |       0%        |       50%       |     50%      |
 | Grave             |    –    |      –       |        ✔️        |        ✔️        |      ❌       |
 | Keep on Death     |    –    |      –       | Hotbar/Equipped | Hotbar/Equipped |      ❌       |
